@@ -5,6 +5,8 @@ A fork of [Opsu](https://github.com/itdelatrisu/opsu) using libgdx to fake slick
 NOTE: I gonna try to port this on [iOS](https://en.wikipedia.org/wiki/Evil) Devices.
 A low success rate porting this is predicted bcoz i have limited knowledge on [iOS](https://en.wikipedia.org/wiki/Evil) coding.
 
+Maybe i'll gonna start porting opsu this February 2016 (Because im too busy this 2015 LOL)
+
 Sorry for bad [english](https://en.wikipedia.org/wiki/English_language)
 
 -[chiharuru/Yuuhei](https://www.facebook.com/nandemo.nai01)
