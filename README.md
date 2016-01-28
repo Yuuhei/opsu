@@ -16,7 +16,7 @@ In my way i'll gonna use [RoboVM](https://robovm.com/)
 
 https://github.com/libgdx/libgdx/wiki/Deploying-your-application#deploy-to-ios
 
-Then, i'll gonna port this Launcher
+i'll gonna port this Launcher if needed
 
 https://github.com/fluddokt/FKGdxOpsuLaunchers
 
