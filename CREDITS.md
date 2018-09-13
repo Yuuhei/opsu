@@ -5,7 +5,7 @@ Images and Resources
 ------
 The resources included in osu! belong to their respective authors.
 
-* peppy (ppy) - Default osu! Skin
+* peppy (ppy) - Default osu! Skin and main logos
 
 Projects
 --------
@@ -23,6 +23,18 @@ osu! (Android) Testers
 ----------------------
 Thanks to these guys who helped test the app.
 
-* 
-*
-*
+* PotatoMaster3211
+* a guy with HentaiHaven avatar
+* Gayest person on Discord
+* yoon538
+* REKTsanity
+* blueEagle
+* Maik Maik Maik
+* 長野七瀬
+* MasterJunJun
+* Hooman
+* PU$$¥D3$TR0Y3R
+* SomeRandomGuy
+* qq1993pp
+* 500InternalSvrError
+* ??? m(_ _ )m
