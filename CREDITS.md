@@ -48,3 +48,6 @@ Thanks to these guys who helped test the app.
 * YoumuKonpaku
 * D A N K = K N A D
 * xin-
+* B^™^N
+* ニャンニャンニャン
+* Kyuu ㅋㅋㅋㅋ
