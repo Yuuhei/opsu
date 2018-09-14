@@ -51,3 +51,6 @@ Thanks to these guys who helped test the app.
 * B^™^N
 * ニャンニャンニャン
 * Kyuu ㅋㅋㅋㅋ
+* 黒田愛子☆
+* !! Wan Sum Fuk
+* League of NaCl
